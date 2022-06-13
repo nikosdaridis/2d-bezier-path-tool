@@ -1,0 +1,26 @@
+m_ProjectFiles:
+  m_ManifestFileStatus:
+    m_FilePath: C:/Users/PC/GPR5100.2/Packages/manifest.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 637906570590789502
+    m_Hash: 2010176602
+  m_LockFileStatus:
+    m_FilePath: C:/Users/PC/GPR5100.2/Packages/packages-lock.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 637906571046569684
+    m_Hash: 3680315187
+m_EmbeddedPackageManifests:
+  m_ManifestsStatus: {}
+m_PackageAssets:
+  m_Packages:
+    m_ResolvedPackages: []
+  m_LocalPackages:
+    m_LocalFileStatus: []
+m_ProjectPath: C:/Users/PC/GPR5100.2/Packages
+m_EditorVersion: 2020.3.30f1 (1fb1bf06830e)
